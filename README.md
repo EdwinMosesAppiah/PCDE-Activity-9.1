@@ -14,7 +14,8 @@ The purpose of this activity is to demonstrate basic GitHub workflow including:
 
 ## Repository Contents
 
-- **MIT.ipynb**  
+- **MIT.ipynb**
+- Click on [MIT.ipynb](https://github.com/EdwinMosesAppiah/PCDE-Activity-9.1/blob/main/MIT.ipynb) to view the file
   A Jupyter Notebook that was edited to remove errors and ensure it runs correctly.
 
 ## Steps Completed
