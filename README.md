@@ -29,4 +29,4 @@ The purpose of this activity is to demonstrate basic GitHub workflow including:
 ## Author
 
 GitHub: `Edwin moses appiah`
-URL: https://github.com/yourusername/PCDE-Activity-9.1
+URL: https://github.com/edwinmosesappiah/PCDE-Activity-9.1
